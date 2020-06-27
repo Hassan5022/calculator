@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.div{
+    background-image: url('background-image.jpg');
+}
+
+.secDiv{
+    padding-top: 1px;
+}
+
+.main{
+    border-radius: 20px;
+    border: 2px solid crimson;
+    width: 340px;
+    padding-top: 13px;
+    margin: 63px auto;
+    background-color: #d5e0b1;
+}
+
+.result{
+    font-size: 36px;
+    border-radius: 15px;
+    outline: none;
+    border-color: red;
+    height: 60px;
+    width: 95%;
+    color: purple;
+    margin: 6px;
+}
+
+.calc{
+    padding-top: 5px;
+    height: 45px;
+    margin: 6px;
+    background-color: #e9eef0;
+    border-radius: 15px;
+    border: 2px solid red;
+}
+
+div h1{
+    text-align: center;
+    color: #e305cd;
+}
+
+.clearBtn{
+    background-color: white;
+    font-size: 20px;
+    color: darkmagenta;
+    border-radius: 15px;
+    outline: none;
+    width: 70px;
+    border-color: red;
+    height: 50px;
+    margin: 6px;
+}
+
+div button:hover {
+    background-color: #dbbdd8;
+    color: black;
+    text-decoration: none;
+}
+
+.btn{
+    background-color: white;
+    font-size: 20px;
+    color: darkmagenta;
+    border-radius: 15px;
+    outline: none;
+    border-color: red;
+    width: 70px;
+    margin: 6px;
+    height: 50px;
+}
+
+.allBtn{
+    margin-top: 28px;
+    margin-bottom: 10px;
+}
+
+.footer{
+    color: #c5eced;
+    background-color: #606063;
+    padding-top: 20px;
+    height: 40px;
+}
+
+.auther{
+    text-decoration: none;
+    color: #f6f0f7;
+}
+
+div p{
+    font-size: 18px;
+    text-align: center;
+}
+
+.auther:hover{
+    color: blue;
+}
